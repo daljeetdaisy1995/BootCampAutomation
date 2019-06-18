@@ -12,7 +12,9 @@
 
     <test name="Amazon Home">
         <classes>
-            <class name="testAmazonPackage.TestAccount"/>
+            <class name="testAmazonPackage.AccountTest"/>
+            <!--<class name="testAmazonPackage.AccountTest"/>-->
+
 
 
 
