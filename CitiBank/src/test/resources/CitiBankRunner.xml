@@ -11,7 +11,7 @@
 
     <test name="CitiBank Home">
         <classes>
-            <class name=""/>
+            <class name="TestCitiHome.TestCiti"/>
 
 
 

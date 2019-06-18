@@ -11,7 +11,7 @@
 
     <test name="Facebook Home">
         <classes>
-            <class name=""/>
+            <class name="testidProfileHomePage.TestIDProfileHomePage"/>
 
 
 
